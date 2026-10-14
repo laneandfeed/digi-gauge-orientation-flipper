@@ -54,6 +54,7 @@ python quick_test_v6.py
 ```
 
 Outputs will be saved with `_FINAL.jpg` showing the corrected, landscape-oriented screen ready for OCR.
+<img width="187" height="85" alt="tester_FINAL" src="https://github.com/user-attachments/assets/d50e3c35-84ff-44a1-8914-2433e152f92d" />
 
 ---
 
