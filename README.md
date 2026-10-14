@@ -55,7 +55,7 @@ python quick_test_v6.py
 
 Outputs will be saved with `_FINAL.jpg` showing the corrected, landscape-oriented screen ready for OCR.
 ---
-<img width="1440" height="1920" alt="tester" src="https://github.com/user-attachments/assets/df8f5eca-8ff8-41d5-b3de-78423501566a" />
+<img width="200" height="200" alt="tester" src="https://github.com/user-attachments/assets/df8f5eca-8ff8-41d5-b3de-78423501566a" />
 <img width="157" height="226" alt="tester_raw_in_crop" src="https://github.com/user-attachments/assets/4d14b79d-fc2a-4d55-8c54-06b070af1967" />
 <img width="420" height="210" alt="tester_brightness_check" src="https://github.com/user-attachments/assets/faa553ac-8181-4361-bb03-bdc7cfa547cd" />
 <img width="187" height="85" alt="tester_FINAL" src="https://github.com/user-attachments/assets/94fc0132-1f49-4ca5-a7ab-6ce95af74101" />
