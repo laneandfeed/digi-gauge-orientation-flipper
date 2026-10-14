@@ -1,6 +1,9 @@
 # Digital Gauge Orientation Normalizer & Reading Pipeline
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laneandfeed/digi-gauge-orientation-flipper/blob/main/demo.ipynb)
+
 An intelligent computer vision pipeline designed to detect digital tire tread depth gauges, estimate device orientation, and automatically correct/rotate the LCD screen to a standardized landscape orientation for downstream OCR and automated measurement reading.
+
 
 ---
 
